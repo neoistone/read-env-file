@@ -11,9 +11,10 @@
     "require": {
         "php": "^7.3"
     },
-	"autoload": {
-		"classmap": [
-		"src/class.env.php"
-		]
-	}
+    "autoload": {
+	"classmap": [
+	   "src/class.env.php"
+         ]
+    },
+     "minimum-stability": "stable",
 }

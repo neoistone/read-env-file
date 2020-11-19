@@ -1,0 +1,19 @@
+
+{
+    "name": "neoistone/read-env-file",
+    "description": "Read and Generate env File a part of the neoistone framework",
+    "authors": [
+        {
+            "name": "Neoistone",
+            "email": "dev@neoistone.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    },
+	"autoload": {
+		"classmap": [
+		"src/class.env.php"
+		]
+	}
+}

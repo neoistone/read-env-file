@@ -1,6 +1,6 @@
 <?php
 
-namespace neoistone;
+namespace neoistone\core;
 
 class ns_env {
     
